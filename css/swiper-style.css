@@ -1,0 +1,93 @@
+.slide-container {
+  max-width: 1120px;
+  width: 100%;
+  padding: 40px 0;
+}
+.slide-content {
+  margin: 0 40px;
+  overflow: hidden;
+  border-radius: 2px;
+}
+.card {
+  border-radius: 2px;
+  background-color: #fff;
+}
+.image-content,
+.card-content {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0px;
+}
+.image-content {
+  position: relative;
+  padding: 0 0;
+}
+.overlay {
+  position: relative;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #f7d4db;
+  border-radius: 0px 0px 0 0px;
+}
+.overlay::before,
+.overlay::after {
+  content: "";
+  position: relative;
+  right: 0;
+  bottom: -40px;
+  height: 40px;
+  width: 40px;
+  background-color: #f7d4db;
+}
+.overlay::after {
+  border-radius: 0 0px 0 0;
+  background-color: #fff;
+}
+.card-image {
+  position: relative;
+  height: 150px;
+  width: 100%;
+  border-radius: 2px;
+  background: #f7d4db;
+}
+.card-image .card-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 2px;
+}
+.name {
+  font-size: 18px;
+  font-weight: 500;
+  color: #333;
+}
+.description {
+  font-size: 14px;
+  color: #707070;
+  text-align: left;
+}
+.button {
+  border: none;
+  font-size: 16px;
+  color: #cd8c99;
+  padding: 8px 16px;
+  background-color: #fff;
+  border-radius: 2px;
+  margin: 14px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.button:hover {
+  background: #f7d4db;
+}
+
+@media screen and (max-width: 768px) {
+  .slide-content {
+    margin: 0 10px;
+  }
+  .swiper-navBtn {
+    display: none;
+  }
+}
