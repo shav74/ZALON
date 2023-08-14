@@ -91,14 +91,14 @@
             <span class="book-text">Book your next </span>
             <span class="book-change-name" id="book-change" style="color: #e39c9c;">Haircut</span><br>
         </div>
-        <div class="wrapper">
+        <div class="date-wrapper">
             <div class="search-input">
                 <a href="" target="_blank" hidden></a>
-                <input type="text" placeholder="Business Name or Location" />
+                <input type="date" placeholder="Business Name or Location" />
             </div>
             <div class="search-input">
                 <a href="" target="_blank" hidden></a>
-                <input type="text" placeholder="Type of Service" />
+                <input type="date" placeholder="Type of Service" />
             </div>
             <div class="search-input">
                 <a href="" target="_blank" hidden></a>
