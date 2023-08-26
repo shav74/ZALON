@@ -1,17 +1,17 @@
 <nav>
   <div class="nav-bar">
     <i class="bx bx-menu sidebarOpen"></i>
-    <span class="logo navLogo"><a href="#">ZALON</a></span>
+    <span class="logo navLogo"><a href="/index.php">ZALON</a></span>
 
     <div class="menu">
       <div class="logo-toggle">
-        <span class="logo"><a href="#">ZALON</a></span>
+        <span class="logo"><a href="/index.php">ZALON</a></span>
         <i class="bx bx-x siderbarClose"></i>
       </div>
 
       <ul class="nav-links">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
+        <li><a href="../index.php">Home</a></li>
+        <li><a href="../salon_page.php">About</a></li>
         <li><a href="#">Portfolio</a></li>
         <li><a href="#">Services</a></li>
         <li><a href="#">Contact</a></li>

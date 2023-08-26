@@ -48,18 +48,19 @@
 }
 
 .title-main {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: bold;
   color: #e39c9c;
 }
 
 .title-sub {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   font-weight: bold;
 }
 
 #search-des {
   color: #777676;
+  font-size: 1rem;
 }
 
 .info {
@@ -73,9 +74,18 @@
   margin-left: auto;
   margin-right: auto;
   position: relative;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 500;
   margin-top: 6vh;
+}
+
+.book-text {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.book-change-name {
+  font-size: 2rem;
 }
 
 .title-view-more {

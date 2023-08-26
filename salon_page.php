@@ -48,21 +48,7 @@
 
     <!-- Tab content -->
     <div id="About" class="tabcontent">
-        <!-- Page Header Start -->
-        <div class="page-header">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <h2>About Us</h2>
-                    </div>
-                    <div class="col-12">
-                        <a href="">Home</a>
-                        <a href="">About Us</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Page Header End -->
+
 
         <!-- About Start -->
         <div class="about">
@@ -103,21 +89,6 @@
     </div>
 
     <div id="Team" class="tabcontent">
-        <!-- Page Header Start -->
-        <div class="page-header">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <h2>Barber</h2>
-                    </div>
-                    <div class="col-12">
-                        <a href="">Home</a>
-                        <a href="">Barber</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Page Header End -->
 
         <!-- Team Start -->
         <div class="team">
@@ -178,21 +149,6 @@
     </div>
 
     <div id="Services" class="tabcontent">
-        <!-- Page Header Start -->
-        <div class="page-header">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <h2>Price</h2>
-                    </div>
-                    <div class="col-12">
-                        <a href="">Home</a>
-                        <a href="">Price</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Page Header End -->
 
         <!-- Pricing Start -->
         <div class="price">
@@ -408,21 +364,6 @@
     </div>
 
     <div id="Blog" class="tabcontent">
-        <!-- Page Header Start -->
-        <div class="page-header">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <h2>Barber Blog</h2>
-                    </div>
-                    <div class="col-12">
-                        <a href="">Home</a>
-                        <a href="">Barber Blog</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Page Header End -->
 
         <!-- Blog Start -->
         <div class="blog">
@@ -581,7 +522,9 @@
 
     <div id="Reviews" class="tabcontent">
         <h3>Reviews</h3>
-        <p>Reviews is the capital of Japan.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic earum dignissimos, totam recusandae quisquam in
+            voluptate eveniet voluptates aut illum a repellendus doloribus, fugiat neque dicta dolore nemo
+            exercitationem consequuntur!</p>
     </div>
 
 </body>
